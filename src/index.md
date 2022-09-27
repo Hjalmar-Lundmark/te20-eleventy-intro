@@ -15,4 +15,3 @@ Detta är *min* **fanatiska** sida.
 
 ## Jag ska lära mig 11ty
 
-[sneakers](/sneakers)

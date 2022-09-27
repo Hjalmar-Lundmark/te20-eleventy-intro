@@ -19,3 +19,7 @@ edit package.json:
 edit eleventy.js
 
 kolla filen?
+
+
+
+idk vad sedan
